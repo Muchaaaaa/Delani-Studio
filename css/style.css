@@ -1,0 +1,51 @@
+.landing-page{
+    background-image: url(../images/image1.jpg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:1250px;
+    height:650px;
+    background-position:center center;
+
+
+}
+.centered{
+    text-align:center;
+    font-size:x-large;
+    position:relative;
+    top:50%;
+    left:3%;
+    
+}
+.about-us{
+    text-align:center;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.services{
+    background-image: url(../images/image3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:500px;
+    width:1250px;
+}
+.serv{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    position:relative;
+    top:50%;
+    
+}
+.whatwedo{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    
+}
+#one{
+    float: 80px center;
+    width:42px;
+    height:42px;
+}
