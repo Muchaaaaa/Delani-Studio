@@ -49,3 +49,26 @@
     width:42px;
     height:42px;
 }
+
+.contact-us{
+    background-image:url(../images/image2.jpg);
+    background-position: center center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:1250px;
+    height:400px;
+    text-align: center;
+}
+.form1{
+    text-align: center;
+    font-size: x-large;
+}
+.form2{
+    text-align:center;
+    font-size: x-large;
+}
+
+.portfolio{
+    text-align:center;
+}
