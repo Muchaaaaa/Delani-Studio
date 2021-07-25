@@ -1,12 +1,12 @@
-# <b>NAMING APP</b>
-#### The application gives back the users' Akan name depending on the birthday
+# <b>DELANI STUDIO</b>
+#### The application gives information about the services offered by Delani studio.
 #### By SYLVIA GLORIA MUCHA
 
 ## <b>Description</b>
-The naming app prompts the user to input the birthday and select the gender.The app then returns the Akan name of the user depending on the gender chosen.
+The application provides the users with necessary information about Delani Studio and the services offered.The app has an about section and a form that the user is able to fill to be able to contact the studio.
 
 ## <b>Setup/Installation Requirements</b>
-1.Clone the repository
+1.Clone the repository at https://github.com/Muchaaaaa/Delani-Studio.git
 <br>
 2.Open the project on your editor(VS Code/Atom)
 <br>
