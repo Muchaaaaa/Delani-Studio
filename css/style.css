@@ -69,8 +69,12 @@
     font-size: x-large;
 }
 
-.portfolio{
+.portfolio-container-fluid{
     text-align:center;
+
+}
+.port{
+    padding-right:50px;
 }
 .footer{
     text-align:center;
