@@ -13,7 +13,7 @@ The application provides the users with necessary information about Delani Studi
 3.Open the project on live server
 
 ## <b>Known Bugs</b>
-No known bugs
+The site might not be responsive to all devices
 
 ## <b>Technologies Used</b>
 HTML
