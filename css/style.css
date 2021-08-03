@@ -1,12 +1,21 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
 .landing-page{
     background-image: url(../images/image1.jpg);
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-repeat: no-repeat;
-    background-size: cover;
-    width:1250px;
-    height:650px;
-    background-position:center center;
-
+    background-size: 100% 100%;
+    /* width:1250px; */
+    height:100vh;
+    /* background-position:center center; */
+    text-align:center;
+h1{
+    text-align: center;
+}
 
 }
 .centered{
@@ -26,46 +35,45 @@
     background-image: url(../images/image3.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
-    height:500px;
-    width:1250px;
+    background-size: 100% 100%;
+    height:400px;
+    padding-top: 10px;
+    /* height:500px;
+    width:1250px; */
 }
 .serv{
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: xx-large;
+    font-size: x-large;
     position:relative;
     top:50%;
+    color:white;
     
 }
-.whatwedo{
-    text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: x-large;
-    
-}
-
 .contact-us{
     background-image:url(../images/image2.jpg);
     background-position: center center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
     width:1250px;
     height:400px;
     text-align: center;
 }
+
 .form1{
     text-align: center;
     font-size: x-large;
+    background-color: transparent;
 }
 .form2{
     text-align:center;
     font-size: x-large;
+    background-color: transparent;
 }
 
-.portfolio-container-fluid{
-    text-align:center;
+.portfolio{
+    width: 80%;
 
 }
 .port{
@@ -74,3 +82,36 @@
 .footer{
     text-align:center;
 }
+#design,
+#development,
+#product-management{
+    display: none;
+}
+
+.container-fluid{
+    margin: 0;
+    padding: 0;
+}
+
+.delani{
+    text-align: center;
+}
+
+/* #img-design,
+#img-development,
+#img-product{
+    margin:15px;
+    padding:15px;
+    display:flex;
+    top: 80%;
+}
+#img-design{
+    margin-left:30%;
+
+}
+#img-development{
+    margin-left:40%;
+}
+#img-product{
+    margin-left:50%;
+} */
